@@ -3,11 +3,11 @@ Our research lab is dedicated to advancing visual understanding through cutting-
 
 ## Amazing Projects in VULab
 ### Visual Language Models (VLMs)
-[_Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions_](https://vulab-ai.github.io/YESBUT_Homepage/) [NeurIPS 2024 **Oral**]
+- [NeurIPS 2024 **Oral**] [_Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions_](https://vulab-ai.github.io/YESBUT_Homepage/) 
 
 ### 3D Vision
-[_View-consistent Object Removal in Radiance Fields_](https://vulab-ai.github.io/View-consistent_Object_Removal_in_Radiance_Fields/) [ACM MM 2024]
-[_NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation_](https://github.com/YuYin1/NeRFInvertor) [CVPR 2023]
+- [ACM MM 2024] [_View-consistent Object Removal in Radiance Fields_](https://vulab-ai.github.io/View-consistent_Object_Removal_in_Radiance_Fields/)
+- [CVPR 2023] [_NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation_](https://github.com/YuYin1/NeRFInvertor) 
 
 <!--
 ### Generative Models
@@ -17,12 +17,12 @@ Our research lab is dedicated to advancing visual understanding through cutting-
 Explore these projects and more to learn how we're shaping the future of visual AI!
 
 ## Lab members
-- [ ] [Yu Yin](https://yin-yu.github.io/) (PI and Lab Director)
-- [ ] [Yiren Lu](https://yiren-lu.com/) (Ph.D)
-- [ ] [Disheng Liu]() (Ph.D)
-- [ ] [Jerry Peng]() (Ph.D)
-- [ ] [Tuo Liang](https://tuo-liang.github.io/) (MS)
-- [ ] [Yunlai Zhou]() (MS)
+- [Yu Yin](https://yin-yu.github.io/) (_PI and Lab Director_)
+- [Yiren Lu](https://yiren-lu.com/) (Ph.D)
+- [Disheng Liu] (Ph.D)
+- [Jerry Peng] (Ph.D)
+- [Tuo Liang](https://tuo-liang.github.io/) (MS)
+- [Yunlai Zhou] (MS)
 
 
 <!--
