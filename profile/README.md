@@ -1,10 +1,12 @@
 ## Welcome to VULab: Visual Understanding Lab at CWRU! 👋 
 Our research lab is dedicated to advancing visual understanding through cutting-edge AI and machine learning techniques. Our mission is to explore and develop innovative solutions in visual language models (VLMs), 3D vision, and more, to push the boundaries of how machines perceive and interpret the world.
 
-## Amazing Projects in VULab
+## Amazing Projects at VULab
 ### Visual Language Models (VLMs)
 - [NeurIPS 2024 **Oral**] [_Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions_](https://vulab-ai.github.io/YESBUT_Homepage/) 
+- [EMNLP 2024] [_VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values_](https://derekhu.com/project_page/viva_website_emnlp24/)
 
+  
 ### 3D Vision
 - [ACM MM 2024] [_View-consistent Object Removal in Radiance Fields_](https://vulab-ai.github.io/View-consistent_Object_Removal_in_Radiance_Fields/)
 - [CVPR 2023] [_NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation_](https://github.com/YuYin1/NeRFInvertor) 
@@ -19,10 +21,10 @@ Explore these projects and more to learn how we're shaping the future of visual 
 ## Lab members
 - [Yu Yin](https://yin-yu.github.io/) (_PI and Lab Director_)
 - [Yiren Lu](https://yiren-lu.com/) (Ph.D)
-- [Disheng Liu] (Ph.D)
-- [Jerry Peng] (Ph.D)
+- Disheng Liu (Ph.D)
+- Jerry Peng (Ph.D)
 - [Tuo Liang](https://tuo-liang.github.io/) (MS)
-- [Yunlai Zhou] (MS)
+- Yunlai Zhou (MS)
 
 
 <!--
