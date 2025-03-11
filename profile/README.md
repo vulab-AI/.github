@@ -8,6 +8,7 @@ Our research lab is dedicated to advancing visual understanding through cutting-
 
   
 ### 3D Vision
+- [CVPR 2025] [_BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting_]()
 - [ACM MM 2024] [_View-consistent Object Removal in Radiance Fields_](https://vulab-ai.github.io/View-consistent_Object_Removal_in_Radiance_Fields/)
 - [CVPR 2023] [_NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation_](https://github.com/YuYin1/NeRFInvertor) 
 
