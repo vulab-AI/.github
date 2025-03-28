@@ -3,8 +3,8 @@ Our research lab is dedicated to advancing visual understanding through cutting-
 
 ## Amazing Projects at VULab
 ### Visual Language Models (VLMs) 
-- [Under-review] [_[YesBut-v2\] When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor Through Comparative Reasoning?](https://vulab-ai.github.io/YESBUT-v2/) 
-- [NeurIPS 2024 **Oral**] [_\[YesBut Benchmark\] Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions?](https://vulab-ai.github.io/YESBUT_Homepage/) 
+- [Under-review] [\[YesBut-v2\] When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor Through Comparative Reasoning?](https://vulab-ai.github.io/YESBUT-v2/) 
+- [NeurIPS 2024 **Oral**] [\[YesBut Benchmark\] Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions?](https://vulab-ai.github.io/YESBUT_Homepage/) 
 - [EMNLP 2024] [_VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values_](https://derekhu.com/project_page/viva_website_emnlp24/)
 
   
