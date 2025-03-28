@@ -2,13 +2,15 @@
 Our research lab is dedicated to advancing visual understanding through cutting-edge AI and machine learning techniques. Our mission is to explore and develop innovative solutions in visual language models (VLMs), 3D vision, and more, to push the boundaries of how machines perceive and interpret the world.
 
 ## Amazing Projects at VULab
-### Visual Language Models (VLMs)
-- [NeurIPS 2024 **Oral**] [_Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions_](https://vulab-ai.github.io/YESBUT_Homepage/) 
+### Visual Language Models (VLMs) 
+- [Under-review] [_\[YesBut-v2\] When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor Through Comparative Reasoning?](https://vulab-ai.github.io/YESBUT-v2/) 
+- [NeurIPS 2024 **Oral**] [_\[YesBut Benchmark\] Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions?](https://vulab-ai.github.io/YESBUT_Homepage/) 
 - [EMNLP 2024] [_VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values_](https://derekhu.com/project_page/viva_website_emnlp24/)
 
   
 ### 3D Vision
-- [CVPR 2025] [_BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting_]()
+- [Under-review] [_Segment-then-Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting_](https://vulab-ai.github.io/Segment-then-Splat/)
+- [CVPR 2025] [_BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting_](https://vulab-ai.github.io/BARD-GS/)
 - [ACM MM 2024] [_View-consistent Object Removal in Radiance Fields_](https://vulab-ai.github.io/View-consistent_Object_Removal_in_Radiance_Fields/)
 - [CVPR 2023] [_NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation_](https://github.com/YuYin1/NeRFInvertor) 
 
