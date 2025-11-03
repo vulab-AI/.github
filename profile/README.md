@@ -5,7 +5,7 @@ Our research lab is dedicated to advancing visual understanding through cutting-
 ### Large Foundation Models (LLMs, VLMs, VLAs)
 - [Under-review] [_Spatial Intelligence in Vision-Language Models: A Comprehensive Survey_](https://github.com/vulab-AI/Awesome-Spatial-VLMs)
 - [Under-review] [\[YesBut-v2\] When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor Through Comparative Reasoning?](https://vulab-ai.github.io/YESBUT-v2/)
-- [NeurIPS 2025] [_Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning_]([https://derekhu.com/project_page/viva_website_emnlp24/](https://arxiv.org/pdf/2503.16965?))
+- [NeurIPS 2025] [_Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning_】(https://arxiv.org/pdf/2503.16965?))
 - [NeurIPS 2024 **Oral**] [\[YesBut\] Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions?](https://vulab-ai.github.io/YESBUT_Homepage/) 
 - [EMNLP 2024] [_VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values_](https://derekhu.com/project_page/viva_website_emnlp24/)
 - [INLG 2024 **Oral**] [_AMERICANO: Argument Generation with Discourse-driven Decomposition and Multi-agent Interaction_](https://aclanthology.org/2024.inlg-main.8/)
