@@ -10,9 +10,11 @@ Our research lab is dedicated to advancing visual understanding through cutting-
 - [EMNLP 2024] [_VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values_](https://derekhu.com/project_page/viva_website_emnlp24/)
 - [INLG 2024 **Oral**] [_AMERICANO: Argument Generation with Discourse-driven Decomposition and Multi-agent Interaction_](https://aclanthology.org/2024.inlg-main.8/)
 
+<!--
 Debate-to-Write: A Persona-Driven Multi-Agent Framework for Diverse Argument Generation
 International Conference on Computational Linguistics (COLING), 2025
-  
+-->
+
 ### 3D Vision
 - [NeurIPS 2025] [_Segment-then-Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting_](https://vulab-ai.github.io/Segment-then-Splat/)
 - [Under-review] [_CAUSAL3D: A Comprehensive Benchmark for Causal Learning from Visual Data_](https://arxiv.org/pdf/2503.04852)
