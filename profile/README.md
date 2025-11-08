@@ -3,7 +3,7 @@ Our research lab is dedicated to advancing visual understanding through cutting-
 
 ## Amazing Projects at VULab
 ### Large Foundation Models (LLMs, VLMs, VLAs)
-- [Under-review] [_Spatial Intelligence in Vision-Language Models: A Comprehensive Survey_](https://github.com/vulab-AI/Awesome-Spatial-VLMs)
+- [Under-review] [\[Awesome-Spatial-VLMs\]_Spatial Intelligence in Vision-Language Models: A Comprehensive Survey_](https://github.com/vulab-AI/Awesome-Spatial-VLMs)
 - [Under-review] [\[YesBut-v2\] When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor Through Comparative Reasoning?](https://vulab-ai.github.io/YESBUT-v2/)
 - [NeurIPS 2025] [_Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning_](https://arxiv.org/pdf/2503.16965?)
 - [NeurIPS 2024 **Oral**] [\[YesBut\] Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions?](https://vulab-ai.github.io/YESBUT_Homepage/) 
