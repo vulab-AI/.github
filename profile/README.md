@@ -16,7 +16,7 @@ International Conference on Computational Linguistics (COLING), 2025
 -->
 
 ### 3D Vision
-- [NeurIPS 2025] [_Segment-then-Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting_](https://vulab-ai.github.io/Segment-then-Splat/)
+- [NeurIPS 2025] [_Segment-then-Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting_](https://vulab-ai.github.io/Segment-then-Splat/)
 - [Under-review] [_CAUSAL3D: A Comprehensive Benchmark for Causal Learning from Visual Data_](https://arxiv.org/pdf/2503.04852)
 - [CVPR 2025] [_BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting_](https://vulab-ai.github.io/BARD-GS/)
 - [ACM MM 2024] [_View-consistent Object Removal in Radiance Fields_](https://vulab-ai.github.io/View-consistent_Object_Removal_in_Radiance_Fields/)
