@@ -37,7 +37,7 @@ Explore these projects and more to learn how we're shaping the future of visual 
 ## Lab members
 - [Yu Yin](https://yin-yu.github.io/) (_PI and Lab Director_)
 - [Yiren Lu](https://yiren-lu.com/) (Ph.D)
-- Disheng Liu (Ph.D)
+- [Disheng Liu](https://dishengll.github.io/) (Ph.D)
 - Jerry Peng (Ph.D)
 - [Tuo Liang](https://tuo-liang.github.io/) (Ph.D)
 - Chaoda Song(Ph.D)
