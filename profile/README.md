@@ -16,6 +16,7 @@ International Conference on Computational Linguistics (COLING), 2025
 -->
 
 ### 3D Vision
+- [Under-review] [_Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting_](https://vulab-ai.github.io/Splat2BEV/)
 - [Under-review] [_CAUSAL3D: A Comprehensive Benchmark for Causal Learning from Visual Data_](https://arxiv.org/pdf/2503.04852)
 - [NeurIPS 2025] [_Segment-then-Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting_](https://vulab-ai.github.io/Segment-then-Splat/)
 - [NeurIPS 2025] [_Fix False Transparency by Noise Guided Splatting_](https://opsiclear.github.io/ngs/)
@@ -25,7 +26,7 @@ International Conference on Computational Linguistics (COLING), 2025
 
 ### Embodied AI
 - [Under-review] [_NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?_](https://vulab-ai.github.io/NEBULA-Alpha/)
-
+- [Under-review] [_GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning_](https://vulab-ai.github.io/GSMem/)
 
 <!--
 ### Generative Models
