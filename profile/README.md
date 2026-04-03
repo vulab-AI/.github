@@ -29,7 +29,7 @@ International Conference on Computational Linguistics (COLING), 2025
 - [Under-review] [_NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?_](https://vulab-ai.github.io/NEBULA-Alpha/)
 
 <!--
-### Generative Models
+### Generative Models 
 [Under-review] [_XXX_]()
 -->
 
