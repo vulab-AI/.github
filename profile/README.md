@@ -25,7 +25,7 @@ International Conference on Computational Linguistics (COLING), 2025
 - [CVPR 2023] [_NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation_](https://github.com/YuYin1/NeRFInvertor) 
 
 ### Embodied AI
-- [Under-review] [_GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning_](https://vulab-ai.github.io/GSMem/)
+- [Under-review] [_GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning_](https://yiren-lu.com/project_pages/gsmem/)
 - [Under-review] [_NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?_](https://vulab-ai.github.io/NEBULA-Alpha/)
 
 <!--
