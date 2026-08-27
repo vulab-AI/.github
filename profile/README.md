@@ -1,9 +1,11 @@
 ## Welcome to VULab: Visual Understanding Lab at CWRU! 👋 
 Our research lab is dedicated to advancing visual understanding through cutting-edge AI and machine learning techniques. Our mission is to explore and develop innovative solutions in visual language models (VLMs), 3D vision, and more, to push the boundaries of how machines perceive and interpret the world.
 
+Explore **VULab**: [https://vulab-ai.com/](https://vulab-ai.com/)
+
 ## Amazing Projects at VULab
 ### Large Foundation Models (LLMs, VLMs, VLAs)
-- [Under-review] [\[Awesome Spatial VLMs\] _Spatial Intelligence in Vision-Language Models: A Comprehensive Survey_](https://github.com/vulab-AI/Awesome-Spatial-VLMs)
+- [Artificial Intelligence Review] [\[Awesome Spatial VLMs\] _Spatial Intelligence in Vision-Language Models: A Comprehensive Survey_](https://github.com/vulab-AI/Awesome-Spatial-VLMs)
 - [TPAMI] [\[YesBut-v2\] _When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor Through Comparative Reasoning?_](https://vulab-ai.github.io/YESBUT-v2/)
 - [NeurIPS 2025] [_Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning_](https://arxiv.org/pdf/2503.16965?)
 - [NeurIPS 2024 **Oral**] [\[YesBut\] _Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions?_](https://vulab-ai.github.io/YESBUT_Homepage/) 
@@ -18,6 +20,8 @@ International Conference on Computational Linguistics (COLING), 2025
 ### 3D Vision
 - [Under-review] [_Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting_](https://vulab-ai.github.io/Splat2BEV/)
 - [Under-review] [_CAUSAL3D: A Comprehensive Benchmark for Causal Learning from Visual Data_](https://arxiv.org/pdf/2503.04852)
+- [ICML 2026] [_Expo-GS: Exposure-Aware Signed Distance Function in Gaussian Splatting for High Dynamic Range_](https://icml.cc/virtual/2026/poster/66548)
+- [ACM MM 2026] [_Filling the Unseen: Holistic Scene Extrapolation via 3D Gaussian Splatting_]()
 - [NeurIPS 2025] [_Segment-then-Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting_](https://vulab-ai.github.io/Segment-then-Splat/)
 - [NeurIPS 2025] [_Fix False Transparency by Noise Guided Splatting_](https://opsiclear.github.io/ngs/)
 - [CVPR 2025] [_BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting_](https://vulab-ai.github.io/BARD-GS/)
@@ -26,6 +30,8 @@ International Conference on Computational Linguistics (COLING), 2025
 
 ### Embodied AI
 - [Under-review] [_GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning_](https://yiren-lu.com/project_pages/gsmem/)
+- [Under-review] [_Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models_](https://arxiv.org/pdf/2608.14822)
+- [Under-review] [_Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Models_](https://arxiv.org/pdf/2605.11459)
 - [Under-review] [_NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?_](https://vulab-ai.github.io/NEBULA-Alpha/)
 
 <!--
